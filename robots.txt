@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://hollidavis.github.io/blogsitemap.xml
